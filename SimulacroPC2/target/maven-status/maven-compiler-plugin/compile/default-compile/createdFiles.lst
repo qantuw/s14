@@ -1,0 +1,13 @@
+qantuw\simulacropc2\com2312044\view\LibraryUI.class
+qantuw\simulacropc2\com_2312044\controller\RegisterBookController.class
+qantuw\simulacropc2\com_2312044\repository\BookRepository.class
+qantuw\simulacropc2\TestConexion.class
+qantuw\simulacropc2\com_2312044\controller\SearchBookController.class
+qantuw\simulacropc2\com_2312044\model\Book.class
+qantuw\simulacropc2\com_2312044\model\Book$Builder.class
+qantuw\simulacropc2\com_2312044\service\BookService.class
+qantuw\simulacropc2\DataBaseConnection.class
+qantuw\simulacropc2\Main.class
+qantuw\simulacropc2\com_2312044\controller\BookController.class
+qantuw\simulacropc2\com_2312044\controller\BaseController.class
+qantuw\simulacropc2\com_2312044\controller\EditBookController.class
